@@ -1,8 +1,7 @@
 # ngspades/assets
 
-Downloadable asset packs for **ngspades** (the reference
-client). The game downloads them at start-up; they are not meant to be fetched
-by hand, but the files are public like everything else in this organization.
+Downloadable asset packs for **ngspades** (the reference client).
+The game downloads them at start-up; they are not meant to be fetched by hand, but the files are public like everything else in this organization.
 
 The repository holds no files of its own: **the packs are release assets**.
 
