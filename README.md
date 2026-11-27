@@ -29,8 +29,8 @@ compression) holding the game's own virtual paths (`wav/voice/<lang>/<key>.ogg`,
 
 ## Credits and licence
 
-The radio voices are synthesised for the project; the models, pictures and
-sounds include third-party work under its own licence, credited in the game's
-CREDITS.md (see
-[ngspades/shoot-and-destroy](https://github.com/ngspades/shoot-and-destroy)).
-The soundtrack is credited there as well. The game's code is GPL-3.0.
+The packs mix the project's own work with third-party work under its own licence.
+Who made what, and under which licence, is in [CREDITS.md](CREDITS.md), and how the
+licences work together is in [LICENSE.md](LICENSE.md): **read both before reusing a file
+outside the game** (some models allow no commercial use). The radio voices are synthesised
+for the project. The game's code is GPL-3.0 ([ngspades/shoot-and-destroy](https://github.com/ngspades/shoot-and-destroy)).
