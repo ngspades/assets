@@ -1,6 +1,6 @@
 # ngspades/assets
 
-Downloadable asset packs for **Shoot and Destroy** (the ngspades reference
+Downloadable asset packs for **ngspades** (the reference
 client). The game downloads them at start-up; they are not meant to be fetched
 by hand, but the files are public like everything else in this organization.
 
