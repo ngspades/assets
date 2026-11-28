@@ -26,6 +26,12 @@ manifest points at its own tag. Packs are plain ZIP files (stored, no
 compression) holding the game's own virtual paths (`wav/voice/<lang>/<key>.ogg`,
 `music/<track>.ogg`, `kv6/<model>.kv6`, `png/<picture>.png`, `wav/aos/<sound>.ogg`).
 
+## Community
+
+Join the official **Nexgen Spades** Discord to play, get help and share what you build: <https://discord.gg/vfknrFQr2>
+
+Where it all began: the **Build and Shoot** Discord, home of the Ace of Spades community: <https://discord.gg/Cbda3DtJR>
+
 ## Credits and licence
 
 The packs mix the project's own work with third-party work under its own licence.
